@@ -1,0 +1,9 @@
+title: wwsalmon.com Archive
+description: A comprehensive archive of my personal website, with commentary and preserved copies of old versions.
+baseurl: /archive/
+url: "wwsalmon.com"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
