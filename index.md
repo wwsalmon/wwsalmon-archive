@@ -13,7 +13,8 @@ Welcome to the wwsalmon.com archives. This website is a comprehensive documentat
 
 *   [0.3.1 - Blogger Minimal Custom Website (live, hosted on Blogger)](http://archive.wwsalmon.com)
 *   [0.3.2.HW - Hello World Specialized Portfolio (live, hosted on Blogger)](http://helloworld.wwsalmon.com)
-*   [0.3.2.VD - Videoportfolio Specialized Portfolio (live)](http://wwsalmon.com/videoportfolio)
+*   [0.3.2.VD - Videoportfolio Specialized Portfolio (live)](http://wwsalmon.github.io/videoportfolio)
+*   [0.4.5 - Videoportfolio2 (live, hosted on Netlify)](https://wwsalmon.netlify.com/)
 
 ### Hosted on /archives
 
@@ -96,3 +97,7 @@ By now, I knew how to make a good website, built completely from scratch, and I 
 Summer 2018 - I had just made myself a filmmaking reel, and decided to redesign my website around it. Thus, it was to be a video portfolio, and was named videoportfolio2. This design took the hero paragraph idea from 0.4.3/0.4.4, but ditched the staggered squares; it also brought back the sidebar from 0.4.1, this time influenced by Alex Emerson (awemerson.com), and made the case studies even simpler and more contained. It's really really simple, with the only flairs being some little shadow and movement animations on hover.
 
 I decided I was happy with this iteration, and migrated everything to wwsalmon.github.io and made it live - archiving everything else.
+
+### 0.4.6/7 Portfolio
+
+Summer 2019 - [a friend's photo portfolio](https://www.davidowyang.com) spurred me to rebuild my website in a way that better showcased my various different kinds of work rather than just video. It took most of the content from videoportfolio2, taking 0.3.2.VD's idea of hovering over the project for a GIF/image and turning this to a slider. Furthermore, replacing the photo case studies with a masonry grid and a separate homepage with a word cloud rather than having the page flow straight into tabs of projects. Finally, the website is now located at samsonzhang.com, with wwsalmon.com redirecting over. The site still uses Jekyll, hosted on Netlify on a domain through Google Domains.
